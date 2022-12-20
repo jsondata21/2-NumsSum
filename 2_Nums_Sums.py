@@ -1,4 +1,4 @@
-
+#Find a pair with the given sum in an array
 def findPair(nums, target):
     n = len(nums)
     for i in range(n):
